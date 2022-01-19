@@ -3,4 +3,6 @@
 Informatyka WIET, AGH, semestr IV
 
 
-[1. Lab] (Lab1.ipynb)
+[1. lab] (https://github.com/joannb1022/MOwNiT/blob/main/Lab1.ipynb)
+
+
